@@ -18,6 +18,13 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1rrYC27FD2SVTQ1T4lh4u5eye86" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
