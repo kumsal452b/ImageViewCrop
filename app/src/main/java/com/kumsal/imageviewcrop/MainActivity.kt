@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         imageView=findViewById(R.id.imageView)
 
-        var bitmap=BitmapFactory.decodeResource(resources,R.drawable.test2)
+        var bitmap=BitmapFactory.decodeResource(resources,R.drawable.test)
         var scaling=Scalling()
         val dip = 430f
         val r: Resources = Resources.getSystem()
@@ -27,8 +27,8 @@ class MainActivity : AppCompatActivity() {
                 dip,
                 r.displayMetrics
         )
-        imageView.setImageBitmap(Bitmap.createBitmap(bitmap,bitmap.width.div(2),bitmap.height.div(2),
-                px,400))
+        imageView.setImageBitmap(Bitmap.createBitmap(bitmap,0,0,
+                px.toInt(),px.toInt()))
 
     }
 }
