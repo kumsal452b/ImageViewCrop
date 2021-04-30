@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         imageView=findViewById(R.id.imageView)
 
-        var bitmap=BitmapFactory.decodeResource(resources, R.drawable.woman)
+        var bitmap=BitmapFactory.decodeResource(resources, R.drawable.test2)
         var scaling=Scalling()
 //        val displayMetrics = DisplayMetrics()
 //        windowManager.defaultDisplay.getMetrics(displayMetrics)
