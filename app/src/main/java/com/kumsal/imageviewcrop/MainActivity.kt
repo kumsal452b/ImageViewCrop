@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
                 r.displayMetrics
         )
         imageView.setImageBitmap(Bitmap.createBitmap(bitmap,bitmap.width.div(2),bitmap.height.div(2),
-                430,400))
+                px,400))
 
     }
 }
