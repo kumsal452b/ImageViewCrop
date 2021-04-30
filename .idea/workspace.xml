@@ -34,12 +34,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\keski\Desktop\github-sample\ImageViewCrop\app\src\main\res\drawable" />
       <recent name="C:\Users\keski\Desktop\github-sample\ImageViewCrop\app\src\main\res\drawable-v24" />
     </key>
   </component>
@@ -121,6 +122,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state width="424" height="438" key="DebuggerActiveHint" timestamp="1619812685698">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="424" height="438" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1619812685698" />
     <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1619742316227">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -153,10 +158,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="178" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1619742316228" />
-    <state x="482" y="140" key="chooseDestDirectoryDialog" timestamp="1619737779722">
+    <state x="482" y="140" key="chooseDestDirectoryDialog" timestamp="1619813047872">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="482" y="140" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1619737779722" />
+    <state x="482" y="140" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1619813047872" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -168,7 +173,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/kumsal/imageviewcrop/MainActivity.kt</url>
-          <line>20</line>
+          <line>29</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
