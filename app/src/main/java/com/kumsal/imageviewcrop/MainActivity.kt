@@ -18,8 +18,8 @@ class MainActivity : AppCompatActivity() {
 
         var bitmap=BitmapFactory.decodeResource(resources,R.drawable.test)
         var scaling=Scalling()
-        imageView.setImageBitmap(Bitmap.createBitmap(bitmap,100,230,400,400))
-
+        imageView.setImageBitmap(Bitmap.createBitmap(bitmap,bitmap.width.div(2),bitmap.height.div(2),
+                430,400))
 
     }
 }
