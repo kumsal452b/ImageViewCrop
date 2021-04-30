@@ -12,7 +12,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Nexus_6P_API_25]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_3a_XL_API_26]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -31,6 +31,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3a_XL_API_26" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-04-30T21:08:52.967Z" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
@@ -126,42 +128,46 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="424" height="438" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1619812685698" />
-    <state width="1322" height="178" key="GridCell.Tab.0.bottom" timestamp="1619814513571">
+    <state x="463" y="103" key="FileChooserDialogImpl" timestamp="1619819142596">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619814513571" />
-    <state width="1322" height="178" key="GridCell.Tab.0.center" timestamp="1619814513570">
+    <state x="463" y="103" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1619819142596" />
+    <state width="1322" height="178" key="GridCell.Tab.0.bottom" timestamp="1619819475649">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1619814513570" />
-    <state width="1322" height="178" key="GridCell.Tab.0.left" timestamp="1619814513570">
+    <state width="1322" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619819475649" />
+    <state width="1322" height="178" key="GridCell.Tab.0.center" timestamp="1619819475649">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1619814513570" />
-    <state width="1322" height="178" key="GridCell.Tab.0.right" timestamp="1619814513570">
+    <state width="1322" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1619819475649" />
+    <state width="1322" height="178" key="GridCell.Tab.0.left" timestamp="1619819475648">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1619814513570" />
-    <state width="1322" height="178" key="GridCell.Tab.1.bottom" timestamp="1619814513571">
+    <state width="1322" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1619819475648" />
+    <state width="1322" height="178" key="GridCell.Tab.0.right" timestamp="1619819475649">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="178" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619814513571" />
-    <state width="1322" height="178" key="GridCell.Tab.1.center" timestamp="1619814513571">
+    <state width="1322" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1619819475649" />
+    <state width="1322" height="178" key="GridCell.Tab.1.bottom" timestamp="1619818731498">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="178" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1619814513571" />
-    <state width="1322" height="178" key="GridCell.Tab.1.left" timestamp="1619814513571">
+    <state width="1322" height="178" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619818731498" />
+    <state width="1322" height="178" key="GridCell.Tab.1.center" timestamp="1619818731498">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="178" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1619814513571" />
-    <state width="1322" height="178" key="GridCell.Tab.1.right" timestamp="1619814513571">
+    <state width="1322" height="178" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1619818731498" />
+    <state width="1322" height="178" key="GridCell.Tab.1.left" timestamp="1619818731497">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="178" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1619814513571" />
-    <state x="482" y="140" key="chooseDestDirectoryDialog" timestamp="1619813047872">
+    <state width="1322" height="178" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1619818731497" />
+    <state width="1322" height="178" key="GridCell.Tab.1.right" timestamp="1619818731498">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="482" y="140" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1619813047872" />
+    <state width="1322" height="178" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1619818731498" />
+    <state x="482" y="140" key="chooseDestDirectoryDialog" timestamp="1619819161441">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="482" y="140" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1619819161441" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1619816550875">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -177,8 +183,23 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/kumsal/imageviewcrop/MainActivity.kt</url>
-          <line>29</line>
+          <line>32</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/kumsal/imageviewcrop/MainActivity.kt</url>
+          <line>23</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/kumsal/imageviewcrop/MainActivity.kt</url>
+          <line>24</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/kumsal/imageviewcrop/MainActivity.kt</url>
+          <line>25</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
