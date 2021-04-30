@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.ImageView
 import java.io.File
+import java.io.InputStream
 import java.net.URI
 
 class MainActivity : AppCompatActivity() {
@@ -13,8 +14,10 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         imageView=findViewById(R.id.imageView)
-        var file=File(URI.create())
-        var bitmap=BitmapFactory.decodeFile()
+
+        var bitmap=BitmapFactory.decodeResource(resources,R.drawable.test)
+        var scaling=Scalling()
+        imageView.setImageBitmap(bitmap)
 
 
     }
