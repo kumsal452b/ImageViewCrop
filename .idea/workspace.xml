@@ -51,7 +51,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="ImageViewCrop.app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -121,9 +121,52 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1619742316227">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619742316227" />
+    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1619742316227">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1619742316227" />
+    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1619742316227">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1619742316227" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1619742316227">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1619742316227" />
+    <state width="1323" height="178" key="GridCell.Tab.1.bottom" timestamp="1619742316228">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619742316228" />
+    <state width="1323" height="178" key="GridCell.Tab.1.center" timestamp="1619742316228">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1619742316228" />
+    <state width="1323" height="178" key="GridCell.Tab.1.left" timestamp="1619742316227">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1619742316227" />
+    <state width="1323" height="178" key="GridCell.Tab.1.right" timestamp="1619742316228">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1619742316228" />
     <state x="482" y="140" key="chooseDestDirectoryDialog" timestamp="1619737779722">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="482" y="140" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1619737779722" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/kumsal/imageviewcrop/Scalling.kt</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

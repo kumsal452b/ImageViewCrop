@@ -1,5 +1,6 @@
 package com.kumsal.imageviewcrop
 
+import android.graphics.Bitmap
 import android.graphics.BitmapFactory
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -17,7 +18,7 @@ class MainActivity : AppCompatActivity() {
 
         var bitmap=BitmapFactory.decodeResource(resources,R.drawable.test)
         var scaling=Scalling()
-        imageView.setImageBitmap(bitmap)
+        imageView.setImageBitmap(Bitmap.createBitmap(bitmap,100,230,400,400))
 
 
     }
